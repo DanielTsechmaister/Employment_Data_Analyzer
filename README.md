@@ -1,6 +1,6 @@
-# Python_pandas2
+# Employment_Data_Analyzer whth Pandas 
 
-# Introduction
+## Introduction
 
 This Python Pandas project, created by Daniel Tsechmaister, involves analyzing a dataset named "employment.csv." The dataset contains transaction data for 1000 employees from different departments. The dataset includes the following columns:
 
