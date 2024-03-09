@@ -1,4 +1,4 @@
-# Employment_Data_Analyzer whth Pandas 
+# Employment_Data_Analyzer with Pandas 
 
 ## Introduction
 
